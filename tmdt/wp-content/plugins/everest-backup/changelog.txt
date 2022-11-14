@@ -1,0 +1,81 @@
+== Changelog ==
+
+= v1.1.4 =
+* Enhancement: Extracter enhancement.
+* Enhancement: Database restore class enhancement.
+* Fixes: Fix menus and widget issues.
+* Fixes: Fix content restoration issue with Elementor and Beaver Builder.
+* Fixes: Fix minor issue with White Label CMS plugin.
+
+= v1.1.3 =
+* Enhancement: Added language packs.
+* Fixes: Minor code fixes and compatibility tested.
+
+= v1.1.2 =
+* Fixes: Minor issues fixes and added few action and filters hooks.
+
+= v1.1.1 =
+* Fixes: Check and fix compatibility issues with WordPress 6.0.
+* Enhancement: Add "Force Abort" button for false background process notice.
+
+= v1.1.0 =
+* Fixes: Fix progress bar not working issue when EDD plugin is activated.
+* Enhancement: Add option to custom name tag backup file.
+* Enhancement: Add an option to filter the Tags in the history table.
+* Enhancement: UI enhancements and minor CSS fixes.
+
+= v1.0.9 =
+* Enhancement: UI enhancements.
+* Enhancement: Add Backup package ignore modules tags in history.
+* Enhancement: Add "Delete from Local Web Server" option for cloud backups.
+* Fixes: Fix issue with "disk_free_space" compatiblilty.
+
+= v1.0.8 =
+* Fixes: Minor security issues fixes.
+* Enhancement: Enhanced temporary files handler.
+
+= v1.0.7 =
+* Fixes: Fixed uploads not found after restoration in a multisite setup.
+* Fixes: Fixed "No Matching Template" message after restore complete.
+* Fixes: Fixed UI and process freeze issue due to Javascript errors.
+* Enhancement: Improved process information and cloud upload background process.
+* Enhancement: Changed temporary directory path.
+* Enhancement: File upload progress info for Restore.
+* Enhancement: File download progress info for Clone and Cloud Rollback.
+* Enhancement: Background task improvement for Backup / Restore / Rollback / Clone.
+* Enhancement: Process is running information for other users.
+* Enhancement: Add a custom fallback archiver.
+
+= v1.0.6 =
+* Enhancement: Database import/export improvements.
+* Enhancement: Improved error handler UI for Restore, Rollback and Clone tasks.
+
+= v1.0.5 =
+* Fixes: Fix issue with PclZip fallback.
+* Fixes: Addons not being activated in multisite.
+* Enhancement: Lazy load sidebar iframes.
+
+= v1.0.4 =
+* Enhancement: Add a progress bar for the restore process.
+* Fixes: Other minor issue fixes related to restoring.
+
+= v1.0.3 =
+* Enhancement: Add a progress bar for the backup process.
+* Enhancement: Filter log details for important errors.
+* Enhancement: Add a sidebar for a brief description and video tutorials.
+* Enhancement: Enhanced file size check for rollback and clone.
+* Fixes: Fix "Download" button issues with some servers after a successful backup.
+
+= v1.0.2 =
+* Fixes: Fix issue with large database files during import and export.
+* Fixes: Fix `ulimit` issue with siteground servers.
+* Fixes: Fix customizer value being reset after restore.
+
+= v1.0.1 =
+* Enhancement: Add modal popup in Backup page.
+* Enhancement: Add "Clear All Logs" button in Logs page.
+* Enhancement: Add Addons page.
+* Fixes: Fix minor issues related to CORS.
+
+= v1.0.0 =
+* Initial release

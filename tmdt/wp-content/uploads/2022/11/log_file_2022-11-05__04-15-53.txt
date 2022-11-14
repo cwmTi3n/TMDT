@@ -1,0 +1,116 @@
+
+---Downloaded files---
+The import files for: Elementor Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/TMDT/tmdt
+Data file = C:\xampp\htdocs\TMDT\tmdt/wp-content/uploads/2022/11/demo-content-import-file_2022-11-05__04-15-53.xml
+Widget file = C:\xampp\htdocs\TMDT\tmdt/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-05__04-15-53.json
+Customizer file = C:\xampp\htdocs\TMDT\tmdt/wp-content/uploads/2022/11/demo-customizer-import-file_2022-11-05__04-15-53.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "opisanjhsadbhashh.png" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 3
+[ERROR] Failed to import "opisanjhsadbhashh.png" (Đa phương tiện)
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+---Importing content---
+[WARNING] Could not find the post parent for "" (post #801)
+[WARNING] Could not find the post parent for "" (post #802)
+[WARNING] Could not find the post parent for "" (post #803)
+[WARNING] Could not find the post parent for "" (post #806)
+[WARNING] Could not find the post parent for "" (post #810)
+[WARNING] Could not find the post parent for "" (post #811)
+[WARNING] Could not find the post parent for "" (post #812)
+[WARNING] Could not find the post parent for "" (post #813)
+[WARNING] Could not find the post parent for "" (post #818)
+[WARNING] Could not find the post parent for "" (post #819)
+[WARNING] Could not find the post parent for "" (post #820)
+[WARNING] Could not find the post parent for "" (post #821)
+[WARNING] Could not find the post parent for "Child &#038; Kids" (post #822)
+[WARNING] Could not find the post parent for "Old &#038; Young" (post #823)
+[WARNING] Could not find the post parent for "Man &#038; Female" (post #824)
+[WARNING] Could not find the post parent for "For Him &#038; Her" (post #825)
+[WARNING] Could not find the post parent for "" (post #829)
+[WARNING] Could not find the post parent for "" (post #834)
+[WARNING] Could not find the post parent for "" (post #835)
+[WARNING] Could not find the post parent for "" (post #836)
+[WARNING] Could not find the post parent for "" (post #837)
+[WARNING] Could not find the post parent for "" (post #840)
+[WARNING] Could not find the post parent for "" (post #841)
+[WARNING] Could not find the post parent for "" (post #842)
+[WARNING] Could not find the post parent for "" (post #843)
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+ Cột bên : 
+
+Tìm kiếm sản phẩm - Product Search - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Các danh mục sản phẩm - Product categories - Imported
+Sản phẩm theo Danh sách bình chọn - Top rated products - Imported
+Ảnh - No Title - Imported
+
+Cuối trang 1 : 
+
+OS: Giới thiệu - About - Imported
+
+Cuối trang 2 : 
+
+Menu - Quick Links - Imported
+
+Cuối trang 3 : 
+
+Danh sách các sản phẩm - On Sale - Imported
+
+Cuối trang 4 : 
+
+Sản phẩm theo Danh sách bình chọn - Top rated products - Imported
+
+Cột phụ WooCommerce : 
+
+Tìm kiếm sản phẩm - Search - Imported
+Lọc sản phẩm bởi giá - Filter by price - Imported
+Lọc sản phẩm theo bình chọn - Average rating - Imported
+Các danh mục sản phẩm - Product categories - Imported
+
+
+
+---et-after-demo-content-import---
+

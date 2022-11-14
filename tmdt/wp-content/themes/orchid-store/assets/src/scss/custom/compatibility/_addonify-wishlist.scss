@@ -1,0 +1,31 @@
+/*
+====================================================
+=
+= Addonify Wishlist
+=
+==========================================
+*/
+
+#addonify-wishlist-modal-wrapper {
+
+    .addonify-wishlist-modal-body  {
+
+        .addonify-wishlist-modal-btns  {
+
+            .adfy-wishlist-btn,
+            .adfy-wishlist-btn-link {
+
+                font-size: 15px;
+            }
+        }
+    }
+}
+
+
+.woocommerce-page.single .addonify-add-to-wishlist-btn-wrapper {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+}
